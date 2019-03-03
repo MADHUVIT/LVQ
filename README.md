@@ -1,0 +1,2 @@
+# LVQ
+Linear vector quantisation
